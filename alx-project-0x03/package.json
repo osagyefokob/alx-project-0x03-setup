@@ -1,0 +1,7 @@
+{
+  "name": "alx-project-0x03",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-icons": "^4.12.0"
+  }
+}
